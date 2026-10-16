@@ -1,0 +1,6 @@
+experiment,id,question,expected_answer,answer,input_tokens,output_tokens,total_tokens,latency_seconds,finish_reason
+prompt_optimisation,1,What is an API?,A way for software applications to communicate.,An API is a set of rules that lets one software program talk to another.,94,68,162,1.277,stop
+prompt_optimisation,2,What is caching?,Storing results so they can be reused without repeating work.,Caching is storing data temporarily so it can be accessed faster later.,93,59,152,0.447,stop
+prompt_optimisation,3,What is an LLM?,A large language model trained to understand and generate text.,An LLM is a large computer program that learns to understand and generate human language.,95,76,171,0.204,stop
+prompt_optimisation,4,Why reduce prompt length?,To reduce input tokens and potentially lower cost.,Shorter prompts use less memory and run faster.,94,145,239,0.534,stop
+prompt_optimisation,5,What is a trade-off in cost optimisation?,"Balancing lower cost with answer quality, speed, or reliability.","A trade‑off in cost optimisation is choosing lower cost at the expense of something else, like quality, performance or time.",98,125,223,1.388,stop

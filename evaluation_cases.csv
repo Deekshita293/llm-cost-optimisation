@@ -1,0 +1,6 @@
+id,question,expected_answer
+1,"What is an API?","A way for software applications to communicate."
+2,"What is caching?","Storing results so they can be reused without repeating work."
+3,"What is an LLM?","A large language model trained to understand and generate text."
+4,"Why reduce prompt length?","To reduce input tokens and potentially lower cost."
+5,"What is a trade-off in cost optimisation?","Balancing lower cost with answer quality, speed, or reliability."

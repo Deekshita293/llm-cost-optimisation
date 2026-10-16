@@ -1,0 +1,4 @@
+{
+  "Explain LLM cost optimisation in 2 short sentences.": "LLM cost optimisation means using large language models in a cheaper way. You can do this by picking smaller models, shortening prompts, and batching requests.",
+  "Explain prompt compression in simple English.": "Prompt compression means shortening a long instruction while keeping its meaning. It helps computers understand the request faster."
+}

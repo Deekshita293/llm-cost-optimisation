@@ -1,0 +1,6 @@
+request_number,timestamp,status,input_tokens,output_tokens,total_tokens,latency_seconds,error
+1,2026-10-15T18:06:32,success,89,118,207,1.123,
+2,2026-10-15T18:06:35,success,89,118,207,0.583,
+3,2026-10-15T18:06:38,success,89,118,207,0.602,
+4,2026-10-15T18:06:41,success,89,118,207,0.763,
+5,2026-10-15T18:06:43,success,89,118,207,0.402,
